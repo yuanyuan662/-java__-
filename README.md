@@ -1,1 +1,1 @@
-# -java__-
+# -java__Abstract classes and interfaces
